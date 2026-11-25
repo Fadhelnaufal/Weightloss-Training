@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795582647162,
+      "tag": "0000_silent_naoko",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795583392942,
+      "tag": "0001_motionless_wolfpack",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795584016368,
+      "tag": "0002_complete_grey_gargoyle",
+      "breakpoints": true
+    }
+  ]
+}
